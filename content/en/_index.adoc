@@ -1,0 +1,11 @@
+---
+title: Welcome to the OpenNMS training
+geekdocNav: false
+geekdocAlign: center
+geekdocAnchor: false
+---
+
+OpenNMS is the open-source network management platform.
+Learn how to leverage the most from the tools around OpenNMS, and make your monitoring projects successful.
+
+{{< button size="large" relref="usage/getting-started/" >}}Getting Started{{< /button >}}

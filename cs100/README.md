@@ -1,1 +1,0 @@
-# opennms-engineer-training

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 1. From Monolith to Microservice on OpenNMS Open Course</title>
+    <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/</link>
+    <description>Recent content in Chapter 1. From Monolith to Microservice on OpenNMS Open Course</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Objectives</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/introduction/learning-objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/introduction/learning-objectives/</guid>
+      <description>By the end of this chapter, you should be able to:
+Explain what a monolith is. Discuss the monolith&amp;rsquo;s challenges in the cloud. Explain the concept of microservices. Discuss microservices advantages in the cloud. Describe the transformation path from a monolith to microservices. </description>
+    </item>
+    
+    <item>
+      <title>Legacy Monolith</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/legacy-monolith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/legacy-monolith/</guid>
+      <description>bla bla</description>
+    </item>
+    
+    <item>
+      <title>The Modern Microservice</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/modern-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/modern-microservices/</guid>
+      <description>bla bla</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Check</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/knowledge-check/03_knowledge-check/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/knowledge-check/03_knowledge-check/</guid>
+      <description>By the end of this chapter, you should be able to:
+Explain what a monolith is. Discuss the monolith&amp;rsquo;s challenges in the cloud. Explain the concept of microservices. Discuss microservices advantages in the cloud. Describe the transformation path from a monolith to microservices. </description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/refactoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Success Stories</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/success-stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/from-monolith-to-microservice/success-stories/</guid>
+      <description>bla bla</description>
+    </item>
+    
+    <item>
+      <title>Chapter Overview</title>
+      <link>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/introduction/chapter-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edu.labmonkeys.space/01_introduction-to-opennms/chapter-01_monolith-to-microservice/introduction/chapter-overview/</guid>
+      <description>Most new companies today run their business processes in the cloud. Newer startups and enterprises which realized early enough the direction technology was headed developed their applications for the cloud.
+Not all companies were so fortunate. Some built their success decades ago on top of legacy technologies - monolithic applications with all components tightly coupled and almost impossible to separate, a nightmare to manage and deployed on super expensive hardware.</description>
+    </item>
+    
+  </channel>
+</rss>
