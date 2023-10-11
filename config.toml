@@ -1,4 +1,4 @@
-baseURL = "https://edu.labmonkeys.space"
+baseURL = "https://university.labmonkeys.space"
 title = "OpenNMS Open Course"
 theme = "hugo-geekdoc"
 
