@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "http://university.labmonkeys.space"
+  to = "https://university.labmonkeys.space"
+  status = 301
+  force = true

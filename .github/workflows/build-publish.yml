@@ -1,0 +1,27 @@
+name: build-publish
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: quay.io/labmonkeys/gohugo:0.119.0.b2073
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Workaround for detected dubious ownership in repository
+        run: git config --global --add safe.directory /__w/opennms-university/opennms-university
+      - name: Build page
+        run: |
+          hugo --gc --minify
+      - name: Publish
+        uses: South-Paw/action-netlify-cli@v2
+        id: netlify
+        with:
+          args: 'deploy --prod --json --dir \"./public\" --message \"draft [${{ github.sha }}]\"'
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

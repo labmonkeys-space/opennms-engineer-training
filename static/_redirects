@@ -1,0 +1,3 @@
+# Redirect with a 301
+http://university.labmonkeys.space/* https://university.labmonkeys.space/:splat 301!
+
